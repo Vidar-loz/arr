@@ -1,0 +1,2 @@
+C:\Users\vidar\source\repos\test_task_arr\Debug\test_task_arr.exe
+C:\Users\vidar\source\repos\test_task_arr\Debug\test_task_arr.pdb
